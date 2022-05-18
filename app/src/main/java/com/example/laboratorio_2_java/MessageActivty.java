@@ -18,8 +18,5 @@ public class MessageActivty extends AppCompatActivity {
         textView.setText(message);
 
         //comments for testing.
-        //comment for test lawny
-        //comment for test lawny122
-        //comment for test lawny122
     }
 }
