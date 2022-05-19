@@ -13,4 +13,18 @@
         android:text="TextView2"
         tools:layout_editor_absoluteX="169dp"
         tools:layout_editor_absoluteY="276dp" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="239dp"
+        android:layout_height="125dp"
+        android:onClick="showActivity"
+        android:rotation="43"
+        android:rotationX="-50"
+        android:rotationY="3"
+        android:text="@string/show_final_activity"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="372dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
